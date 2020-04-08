@@ -12,3 +12,5 @@ Encoding: UTF-8
 Language: es
 LazyData: true
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/lydiaPenglish/prairiePal
+BugReports: https://github.com/lydiaPenglish/prairiePal/issues
